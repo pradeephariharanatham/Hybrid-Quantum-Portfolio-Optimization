@@ -172,4 +172,4 @@ The team sincerely thanks our faculty mentors, reviewers, and institution for th
 
 # Contact
 
-For any queries regarding this project, please contact any of the team members listed above.
+For any queries regarding this project, please contact pradeephariharanatham@gmail.com
