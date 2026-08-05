@@ -74,7 +74,7 @@ The project was carried out through the following stages:
 | Research_Report.pdf | Final research report |
 | Research_Report.docx | Editable research report |
 | Presentation.pptx | Project presentation slides |
-| Presentation.pdf | Presentation in PDF format (if available) |
+| Presentation.pdf | Presentation in PDF format |
 
 ---
 
