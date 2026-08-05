@@ -123,10 +123,7 @@ Simply open the research report (PDF) or presentation files to review the projec
 
 | Name | Email |
 |------|-------|
-| Your Name | your.email@example.com |
-| Team Member 2 | member2@example.com |
-| Team Member 3 | member3@example.com |
-| Team Member 4 | member4@example.com |
+| Pradeep Hariharanatham | pradeephariharanatham@gmail.com |
 
 ---
 
