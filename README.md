@@ -1,5 +1,5 @@
 # Hybrid-Quantum-Portfolio-Optimization
-Hybrid Quantum Portfolio Optimization using QUBO
+A Hybrid Quantum–Classical Framework for Explainable Portfolio Optimization Under Real-World Financial Constraints
 # Hybrid Quantum Portfolio Optimization
 
 ## Project Snapshot
