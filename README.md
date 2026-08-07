@@ -17,7 +17,21 @@ A Hybrid Quantum–Classical Framework for Explainable Portfolio Optimization Un
 
 Portfolio optimization is one of the most fundamental problems in modern finance, aiming to maximize investment returns while minimizing financial risk under various constraints. As the number of assets and constraints increases, finding an optimal portfolio becomes computationally challenging using traditional optimization techniques.
 
-This research presents a **Hybrid Quantum Portfolio Optimization Framework** that formulates the portfolio optimization problem as a **Quadratic Unconstrained Binary Optimization (QUBO)** model. By leveraging hybrid quantum-classical optimization techniques, the project explores how emerging quantum computing methodologies can contribute to solving complex financial optimization problems more efficiently.
+# Research Contributions
+
+This project makes the following key research contributions:
+
+- Developed a **hybrid quantum-classical portfolio optimization framework** that combines classical financial modeling with quantum optimization techniques.
+
+- Formulated the portfolio optimization problem as a **Quadratic Unconstrained Binary Optimization (QUBO)** model, enabling compatibility with quantum optimization algorithms.
+
+- Implemented the optimization workflow using **IBM Qiskit**, integrating quantum algorithms with classical optimizers for enhanced solution quality.
+
+- Performed comparative performance analysis using key financial metrics including expected return, portfolio risk, Sharpe ratio, and computational runtime.
+
+- Demonstrated the applicability of hybrid quantum computing to real-world financial optimization problems while highlighting current hardware limitations and future scalability.
+
+- Designed the framework as a modular research platform that can be extended to multi-objective optimization, dynamic asset allocation, and quantum annealing approaches.
 
 # Problem Statement
 
