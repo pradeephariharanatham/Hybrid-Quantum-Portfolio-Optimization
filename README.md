@@ -134,6 +134,22 @@ Simply open the research report (PDF) or presentation files to review the projec
 
 # References
 
+1. Harry Markowitz, *Portfolio Selection*, The Journal of Finance, 1952.
+
+2. Edward Farhi, Jeffrey Goldstone, and Sam Gutmann, *A Quantum Approximate Optimization Algorithm*, 2014.
+
+3. Andrew Lucas, *Ising Formulations of Many NP Problems*, Frontiers in Physics, 2014.
+
+4. IBM Quantum Documentation – Qiskit Optimization Module.
+
+5. Glover, F., Kochenberger, G., & Du, Y. *A Tutorial on Formulating and Using QUBO Models*, 2019.
+
+6. Venturelli, D., *Quantum Optimization for Financial Portfolio Management*, D-Wave Systems.
+
+7. Woerner, S., & Egger, D. J., *Quantum Risk Analysis*, npj Quantum Information.
+
+8. IBM Quantum Learning Resources and Tutorials.
+
 The complete bibliography and citations are included in the research report.
 
 Major references include:
