@@ -24,6 +24,28 @@ Classical portfolio optimization algorithms often experience increased computati
 
 The objective of this research is to investigate whether hybrid quantum optimization techniques can provide an effective alternative framework for addressing these computational challenges.
 
+**Architecture Diagram**
+
+Financial Dataset
+        │
+        ▼
+Data Preprocessing
+        │
+        ▼
+Mean-Variance Model
+        │
+        ▼
+QUBO Formulation
+        │
+        ▼
+QAOA / VQE / Classical Optimizer
+        │
+        ▼
+Optimized Portfolio
+        │
+        ▼
+Performance Metrics
+
 # Objectives
 
 - Study modern portfolio optimization techniques.
