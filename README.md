@@ -12,23 +12,17 @@ A Hybrid Quantum–Classical Framework for Explainable Portfolio Optimization Un
 | **Approach** | Hybrid Quantum-Classical Optimization |
 | **Project Type** | Academic Research Project |
 
----
-
 # Project Overview
 
 Portfolio optimization is one of the most fundamental problems in modern finance, aiming to maximize investment returns while minimizing financial risk under various constraints. As the number of assets and constraints increases, finding an optimal portfolio becomes computationally challenging using traditional optimization techniques.
 
 This research presents a **Hybrid Quantum Portfolio Optimization Framework** that formulates the portfolio optimization problem as a **Quadratic Unconstrained Binary Optimization (QUBO)** model. By leveraging hybrid quantum-classical optimization techniques, the project explores how emerging quantum computing methodologies can contribute to solving complex financial optimization problems more efficiently.
 
----
-
 # Problem Statement
 
 Classical portfolio optimization algorithms often experience increased computational complexity when dealing with large-scale investment portfolios and multiple optimization constraints.
 
 The objective of this research is to investigate whether hybrid quantum optimization techniques can provide an effective alternative framework for addressing these computational challenges.
-
----
 
 # Objectives
 
@@ -37,8 +31,6 @@ The objective of this research is to investigate whether hybrid quantum optimiza
 - Explore hybrid quantum-classical optimization methods.
 - Analyze potential applications of quantum computing in finance.
 - Evaluate the strengths, limitations, and future scope of quantum optimization.
-
----
 
 # Methodology
 
@@ -52,8 +44,6 @@ The project was carried out through the following stages:
 6. Performance Analysis
 7. Results and Discussion
 
----
-
 # Technologies and Concepts
 
 - Quantum Computing
@@ -63,8 +53,6 @@ The project was carried out through the following stages:
 - Investment Risk Analysis
 - Optimization Algorithms
 - Computational Finance
-
----
 
 # Repository Contents
 
@@ -76,8 +64,6 @@ The project was carried out through the following stages:
 | Presentation.pptx | Project presentation slides |
 | Presentation.pdf | Presentation in PDF format |
 
----
-
 # Key Highlights
 
 - Hybrid Quantum Portfolio Optimization Framework
@@ -86,15 +72,11 @@ The project was carried out through the following stages:
 - Applications of quantum computing in finance
 - Discussion of implementation challenges and future opportunities
 
----
-
 # Results
 
 This research demonstrates how portfolio optimization problems can be formulated using the QUBO framework and highlights the potential of hybrid quantum optimization techniques in addressing complex financial optimization challenges.
 
 The project also discusses current limitations, implementation considerations, and future research opportunities in quantum finance.
-
----
 
 # Future Scope
 
@@ -107,25 +89,17 @@ Potential future enhancements include:
 - Comparative analysis with classical optimization algorithms
 - Performance benchmarking on larger investment portfolios
 
----
-
 # Setup Instructions
 
 No installation or software setup is required.
-
 This repository contains the complete research documentation and presentation prepared for academic evaluation.
-
 Simply open the research report (PDF) or presentation files to review the project.
-
----
 
 # Team Members
 
 | Name | Email |
 |------|-------|
 | Pradeep Hariharanatham | pradeephariharanatham@gmail.com |
-
----
 
 # References
 
@@ -140,35 +114,24 @@ Major references include:
 - Qiskit Documentation
 - Financial optimization research publications
 
----
-
 # External Tools Used
 
 - Microsoft Word
 - Microsoft PowerPoint
 - GitHub
 
----
-
 # Repository Usage
 
 This repository has been created for academic and educational purposes.
-
 The project demonstrates the conceptual design, mathematical formulation, methodology, analysis, and findings of the proposed hybrid quantum portfolio optimization framework.
-
----
 
 # Confidentiality
 
 This repository contains only material approved for academic sharing and does not include any confidential, proprietary, or sensitive information.
 
----
-
 # Acknowledgements
 
 The team sincerely thanks our faculty mentors, reviewers, and institution for their continuous guidance, encouragement, and support throughout this research project.
-
----
 
 # Contact
 
