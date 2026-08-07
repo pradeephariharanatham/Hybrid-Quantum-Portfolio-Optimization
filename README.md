@@ -76,6 +76,15 @@ The project was carried out through the following stages:
 - Optimization Algorithms
 - Computational Finance
 
+**Benchmark Comparisions**
+
+| Algorithm | Return | Risk | Sharpe Ratio | Execution Time |
+| --------- | ------ | ---- | ------------ | -------------- |
+| Classical | ✓      | ✓    | ✓            | ✓              |
+| QAOA      | ✓      | ✓    | ✓            | ✓              |
+| VQE       | ✓      | ✓    | ✓            | ✓              |
+
+
 # Repository Contents
 
 | File | Description |
