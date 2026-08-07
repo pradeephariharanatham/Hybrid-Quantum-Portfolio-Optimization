@@ -84,7 +84,6 @@ The project was carried out through the following stages:
 | QAOA      | ✓      | ✓    | ✓            | ✓              |
 | VQE       | ✓      | ✓    | ✓            | ✓              |
 
-
 # Repository Contents
 
 | File | Description |
